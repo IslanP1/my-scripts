@@ -38,3 +38,4 @@ COMMIT_MSG="$TYPE: $DESC"
 
 git add .
 git commit -m "$COMMIT_MSG"
+git push
